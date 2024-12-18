@@ -1,11 +1,11 @@
 {
-  "name": "better-auth",
-  "version": "1.0.23",
+  "name": "@bachha2906/better-auth",
+  "version": "1.0.24",
   "description": "The most comprehensive authentication library for TypeScript.",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/better-auth/better-auth",
+    "url": "https://github.com/bachha2906/better-auth",
     "directory": "packages/better-auth"
   },
   "scripts": {
